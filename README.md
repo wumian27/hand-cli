@@ -13,11 +13,12 @@
 
 脚手架会拉取[vue-typescript-admin](https://github.com/chinaBerg/vue-typescript-admin)的模板代码，并完成package.json文件字段的修改、git初始化、自动安装依赖等一些基础工作。
 
+### 需要执行npm install
 ### 安装
 
 ```bash
 # 安装
-npm install vta-cli -g
+// npm install vta-cli -g
 ```
 
 ### 使用
